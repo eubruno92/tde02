@@ -2,4 +2,4 @@
 // ( ) int
 // ( x ) double
 // ( ) long
-// ( ) decimal 
+// ( x ) decimal 
